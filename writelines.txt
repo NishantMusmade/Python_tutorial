@@ -1,0 +1,6 @@
+HelloWorldGoodbye
+
+In below lines, we have used newline character
+Hello
+World
+Goodbye
