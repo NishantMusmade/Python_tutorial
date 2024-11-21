@@ -1,4 +1,4 @@
-#Dictionaries are ordered collection of items, in whic items are stored in key-value pairs seaparted by commas and enclosed in curly braces{}
+#Dictionaries are ordered collection of items, in which items are stored in key-value pairs separated by commas and enclosed in curly braces{}
 #from python 3.7, dictionaries are ordered
 dict = {'Name':'Nishant','Age': 20, 'Academic_year':'2024-2025'}
 
